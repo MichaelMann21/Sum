@@ -1,0 +1,6 @@
+Var a;
+Var b;
+Var sum;
+a=4;
+b=5;
+Sum=a+b
